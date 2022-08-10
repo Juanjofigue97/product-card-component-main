@@ -1,0 +1,22 @@
+body{
+    background-color:hsl(30, 38%, 92%) ;
+    font-size: 14px;
+    padding: 20px 16px 20px 16px;
+}
+main,header{
+    background-color: white;
+}
+
+img{
+    width: 320px;
+    height: 239px;
+}
+section{background-color: red;width: 100px;height: 100px;}
+.text-p{
+    letter-spacing: 5px;
+    font-size: 1rem;
+}
+.text-s{
+    line-height: 1.7;
+    font-size: 1.1rem;
+}
