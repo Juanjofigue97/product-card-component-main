@@ -19,7 +19,7 @@ section{
     border-radius: 0 0 10px 10px;
 }
 header{
-    background-image: url('/images/image-product-mobile.jpg');
+    background-image: url('../images/image-product-mobile.jpg');
     background-color: white;
     background-repeat: no-repeat;
     background-position: center;
@@ -133,7 +133,7 @@ a:hover{
         /* flex-direction: row; */
     }
     header{
-        background-image: url('/images/image-product-desktop.jpg');
+        background-image: url('../images/image-product-desktop.jpg');
         border-radius: 10px 0 0 10px;
         height: 450px;
         width: 300px;
