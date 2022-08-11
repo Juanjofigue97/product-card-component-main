@@ -94,6 +94,9 @@ a:hover{
     font-family: 'Fraunces', serif;
     font-size: small;
     font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .btn > b{
@@ -155,5 +158,8 @@ a:hover{
     }
     .text-s{
         margin-bottom: 10px;
+    }
+    .green,.tachado{
+        margin: 15px 0px;
     }
 }
